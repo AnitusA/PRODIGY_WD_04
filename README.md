@@ -1,6 +1,7 @@
 Portfolio of Anitus
 
 Preview
+---
 
 - Open `index.html` in a browser or serve locally:
 
